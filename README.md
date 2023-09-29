@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @heltonhmariano
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning Java, Flutter and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Flutter and Unreal Engine
 
 <!---
 heltonhmariano/heltonhmariano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
